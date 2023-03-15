@@ -1,0 +1,11 @@
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.AssemblyInfo.cs
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.pdb
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/refint/donguler-for-loop.dll
+/Users/ece/Desktop/C Sharp Çalışmaları/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.pdb
